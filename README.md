@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Noctua99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noctua99&show_icons=true&theme=radical)
-github-readme-stats.vercel.app/api/top-langs/?username={Noctua99}&langs_count=8
+![Most Used Languages](http://github-readme-stats.vercel.app/api/top-langs/?username={Noctua99}&langs_count=8)
 
 출처: https://ndb796.tistory.com/512 [안경잡이개발자]
 <!--
