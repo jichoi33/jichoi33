@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Noctua99's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
+github-readme-stats.vercel.app/api?username={Noctua99}&show_icons=true
 <!--
 **Noctua99/Noctua99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
