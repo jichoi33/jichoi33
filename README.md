@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Noctua99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noctua99&show_icons=true&theme=radical)
-![Most Used Languages](http://github-readme-stats.vercel.app/api/top-langs/?username={Noctua99}&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noctua99&langs_count=8)](https://github.com/Noctua99/github-readme-stats)
 <!--
 **Noctua99/Noctua99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
