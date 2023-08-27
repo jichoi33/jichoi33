@@ -1,6 +1,4 @@
 ### Hi there 👋
-![Noctua99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noctua99&show_icons=true&theme=radical)
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noctua99&layout=compact)
 <!--
