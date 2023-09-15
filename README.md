@@ -5,3 +5,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=go_daecoolnoc)](https://solved.ac/go_daecoolnoc)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=daecoolnoc_java)](https://solved.ac/daecoolnoc_java)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=daecoolnoc_python)](https://solved.ac/daecoolnoc_python)
