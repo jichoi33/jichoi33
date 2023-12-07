@@ -1,7 +1,7 @@
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noctua99&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noctua99&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=beowolf4565)](https://solved.ac/beowolf4565)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=go_daecoolnoc)](https://solved.ac/go_daecoolnoc)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=daecoolnoc_python)](https://solved.ac/python_noctua)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=python_noctua)](https://solved.ac/python_noctua)
