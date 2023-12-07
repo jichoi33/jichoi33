@@ -4,4 +4,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=go_daecoolnoc)](https://solved.ac/go_daecoolnoc)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=python_noctua)](https://solved.ac/python_noctua)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cloud_noctua)](https://solved.ac/cloud_noctua)
