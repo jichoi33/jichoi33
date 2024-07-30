@@ -4,6 +4,8 @@
     <a href="https://solved.ac/profile/jongin_go" target="_blank"><img src="https://img.shields.io/badge/solved.ac-00BCB4?style=flat-square&logo=thealgorithms&logoColor=white"/></a>
 </p>
 
+👋 Hi there! I'm a happy graduate student.
+
 ### 💪 Skills
 <p>
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
