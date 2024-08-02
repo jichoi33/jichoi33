@@ -22,4 +22,4 @@
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jongin_go)](https://solved.ac/jongin_go)<br/><br/>
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beowolf4565)](https://solved.ac/beowolf4565)<br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noctua99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
