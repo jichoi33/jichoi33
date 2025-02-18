@@ -1,6 +1,6 @@
 ### ✨ Nice to meet you all! ✨
 <p>
-    <a href="mailto:jichoi@os.korea.ac.kr" target="_blank"><img src="https://img.shields.io/badge/jonginchoi99@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+    <a href="mailto:jichoi@os.korea.ac.kr" target="_blank"><img src="https://img.shields.io/badge/jichoi@os.korea.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
     <a href="https://solved.ac/profile/jongin_go" target="_blank"><img src="https://img.shields.io/badge/solved.ac-00BCB4?style=flat-square&logo=thealgorithms&logoColor=white"/></a>
 </p>
 
